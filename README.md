@@ -127,16 +127,16 @@ LinkedIn: linkedin.com/in/amitks7398
 
 <p align="center">Made with ❤️ by Amit • Open for contributions!</p> ```
 
-# ✅ Want More?
+### ✅ Want More?
 Let me know if you'd like to add:
 
-# ✅ Azure Deployment Guide
+### ✅ Azure Deployment Guide
 
-# ✅ Sample API Docs
+### ✅ Sample API Docs
 
-# ✅ Feature Roadmap
+### ✅ Feature Roadmap
 
-# ✅ Real payment gateway integration
+### ✅ Real payment gateway integration
 
 ```plaintext
 Ecommerce_Templates_1/
