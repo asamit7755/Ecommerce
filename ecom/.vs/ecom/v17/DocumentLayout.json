@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\gallery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\gallery.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\assets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\assets\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\blog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\blog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|c:\\1. system files\\1. amit\\websites\\ecom\\ecom\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4DF0878A-1882-4BCA-A0EC-9D37E1648F53}|ecom\\ecom.csproj|solutionrelative:ecom\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.aspx",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Order.aspx",
+              "RelativeDocumentMoniker": "ecom\\Order.aspx",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Order.aspx",
+              "RelativeToolTip": "ecom\\Order.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T20:56:38.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Assets\\CSS\\Site.css",
+              "RelativeDocumentMoniker": "ecom\\Assets\\CSS\\Site.css",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Assets\\CSS\\Site.css",
+              "RelativeToolTip": "ecom\\Assets\\CSS\\Site.css",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-19T20:12:32.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Contact.aspx",
+              "RelativeDocumentMoniker": "ecom\\Contact.aspx",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Contact.aspx",
+              "RelativeToolTip": "ecom\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T20:10:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.aspx",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Blog.aspx",
+              "RelativeDocumentMoniker": "ecom\\Blog.aspx",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Blog.aspx",
+              "RelativeToolTip": "ecom\\Blog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T20:09:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gallery.aspx",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Gallery.aspx",
+              "RelativeDocumentMoniker": "ecom\\Gallery.aspx",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Gallery.aspx",
+              "RelativeToolTip": "ecom\\Gallery.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T20:08:51.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Products.aspx",
+              "RelativeDocumentMoniker": "ecom\\Products.aspx",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Products.aspx",
+              "RelativeToolTip": "ecom\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T19:57:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\About.aspx",
+              "RelativeDocumentMoniker": "ecom\\About.aspx",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\About.aspx",
+              "RelativeToolTip": "ecom\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T19:54:48.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Default.aspx",
+              "RelativeDocumentMoniker": "ecom\\Default.aspx",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Default.aspx",
+              "RelativeToolTip": "ecom\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T19:52:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Site1.Master",
+              "RelativeDocumentMoniker": "ecom\\Site1.Master",
+              "ToolTip": "C:\\1. System Files\\1. Amit\\Websites\\ecom\\ecom\\Site1.Master",
+              "RelativeToolTip": "ecom\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-19T19:51:04.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

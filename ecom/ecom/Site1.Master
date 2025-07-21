@@ -1,0 +1,111 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="ecom.Site1" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link href="/Content/Site.css" rel="stylesheet" />
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Assets/CSS/Site.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-dark   fixed-top navbar-style"  >
+            <div class="container">
+                <a class="navbar-brand" href="/">
+                    <img src="Assets/Images/Logo/logo.jpg" / style="height:100px; width:100px">  UP AGRO FOODS
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="About.aspx">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Products.aspx">Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Gallery.aspx">Gallery</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Blog.aspx">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Contact.aspx">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <!-- Footer -->
+        <footer class="bg-dark text-white py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 mb-4 mb-md-0">
+                        <h5>Green Valley Farm</h5>
+                        <p>Providing fresh, organic produce to our community since 1995.</p>
+                        <div class="social-icons">
+                            <a href="#" class="text-white me-2"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#" class="text-white me-2"><i class="fab fa-twitter"></i></a>
+                            <a href="#" class="text-white me-2"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-4 mb-md-0">
+                        <h5>Quick Links</h5>
+                        <ul class="list-unstyled">
+                            <li><a href="/" class="text-white">Home</a></li>
+                            <li><a href="/About" class="text-white">About Us</a></li>
+                            <li><a href="/Products" class="text-white">Our Products</a></li>
+                            <li><a href="/Contact" class="text-white">Contact Us</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h5>Contact Info</h5>
+                        <address>
+                            123 Farm Road<br />
+                            Countryside, ST 12345<br />
+                            <i class="fas fa-phone me-2"></i> (123) 456-7890<br />
+                            <i class="fas fa-envelope me-2"></i> info@greenvalleyfarm.com
+                        </address>
+                    </div>
+                </div>
+                <hr class="my-4 bg-light" />
+                <div class="text-center">
+                    <p class="mb-0">&copy; <%= DateTime.Now.Year %> UP AGRO FOODS. All rights reserved.</p>
+                </div>
+            </div>
+        </footer>
+
+        <!-- Scripts -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <asp:ContentPlaceHolder ID="ScriptsContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

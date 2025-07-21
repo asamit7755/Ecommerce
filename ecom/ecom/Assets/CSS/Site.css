@@ -1,0 +1,432 @@
+﻿/* ====================== */
+/* GENERAL STYLES */
+/* ====================== */
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 56px; /* For fixed navbar */
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.btn-success {
+    background-color: #f57c34;
+    border-color: #28a745;
+}
+
+    .btn-success:hover {
+        background-color: #e0260d;
+        border-color: #1e7e34;
+    }
+
+.btn-outline-success:hover {
+    color: white;
+}
+
+/* ====================== */
+/* NAVBAR STYLES */
+/* ====================== */
+.navbar {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+.navbar-style {
+    background-color: #f57c34 !important;
+    
+
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff !important;
+    font-weight:600;
+}
+    .navbar-dark .navbar-nav .nav-link:hover {
+        color: #1F352B !important;
+        font-weight: 600;
+    }
+    /* ====================== */
+    /* HERO SECTION STYLES */
+    /* ====================== */
+    .hero-section, .about-hero, .products-hero, .gallery-hero, .blog-hero, .contact-hero {
+        background-size: cover;
+        display: flex;
+        align-items: center;
+        color: white;
+        text-align: center;
+        margin-top: -56px; /* Offset fixed navbar */
+        padding-top: 56px;
+    }
+
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), url('/Images/farm-hero.jpg') no-repeat center center;
+    height: 100vh;
+}
+
+.about-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), url('/Images/farm-about-hero.jpg') no-repeat center center;
+    height: 50vh;
+}
+
+.products-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), url('/Images/products-hero.jpg') no-repeat center center;
+    height: 50vh;
+}
+
+.gallery-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), url('/Images/gallery-hero.jpg') no-repeat center center;
+    height: 50vh;
+}
+
+.blog-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), url('/Images/blog-hero.jpg') no-repeat center center;
+    height: 50vh;
+}
+
+.contact-hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), url('/Images/contact-hero.jpg') no-repeat center center;
+    height: 50vh;
+}
+
+/* ====================== */
+/* SECTION STYLES */
+/* ====================== */
+section {
+    padding: 80px 0;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.bg-success {
+    background-color: #f57c34 !important;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+/* ====================== */
+/* CARD STYLES */
+/* ====================== */
+.card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s;
+}
+
+    .card:hover {
+        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    }
+
+.product-card, .blog-card {
+    transition: transform 0.3s;
+}
+
+    .product-card:hover, .blog-card:hover {
+        transform: translateY(-5px);
+    }
+
+/* ====================== */
+/* PRODUCT PAGE STYLES */
+/* ====================== */
+.product-img {
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.5s;
+}
+
+.product-card:hover .product-img {
+    transform: scale(1.05);
+}
+
+.badge-organic {
+    background-color: #28a745;
+}
+
+.season-indicator {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.in-season {
+    background-color: #28a745;
+}
+
+.out-season {
+    background-color: #6c757d;
+}
+
+.filter-btn.active {
+    background-color: #28a745;
+    color: white;
+}
+
+/* ====================== */
+/* GALLERY PAGE STYLES */
+/* ====================== */
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s;
+}
+
+    .gallery-item:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    }
+
+.gallery-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    transition: transform 0.5s;
+}
+
+.gallery-item:hover .gallery-img {
+    transform: scale(1.05);
+}
+
+.gallery-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.7);
+    color: white;
+    padding: 15px;
+    transform: translateY(100%);
+    transition: transform 0.3s;
+}
+
+.gallery-item:hover .gallery-caption {
+    transform: translateY(0);
+}
+
+/* ====================== */
+/* BLOG PAGE STYLES */
+/* ====================== */
+.blog-img {
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.5s;
+}
+
+.blog-card:hover .blog-img {
+    transform: scale(1.05);
+}
+
+.blog-meta {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.blog-category {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: #28a745;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+/* ====================== */
+/* CONTACT PAGE STYLES */
+/* ====================== */
+.contact-info-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.3s;
+    height: 100%;
+}
+
+    .contact-info-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    }
+
+.contact-icon {
+    font-size: 2rem;
+    color: #28a745;
+    margin-bottom: 1rem;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.25rem rgba(40, 167, 69, 0.25);
+}
+
+/* ====================== */
+/* TIMELINE STYLES (ABOUT PAGE) */
+/* ====================== */
+.timeline {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+    .timeline::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        background-color: #28a745;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -3px;
+    }
+
+.timeline-item {
+    padding: 10px 40px;
+    position: relative;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+    .timeline-item::after {
+        content: '';
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        background-color: white;
+        border: 4px solid #28a745;
+        border-radius: 50%;
+        top: 15px;
+        z-index: 1;
+    }
+
+.left {
+    left: 0;
+}
+
+.right {
+    left: 50%;
+}
+
+.left::after {
+    right: -12px;
+}
+
+.right::after {
+    left: -12px;
+}
+
+.timeline-content {
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* ====================== */
+/* FEATURE ICONS */
+/* ====================== */
+.feature-icon {
+    font-size: 3rem;
+    color: #28a745;
+    margin-bottom: 1rem;
+}
+
+/* ====================== */
+/* RESPONSIVE ADJUSTMENTS */
+/* ====================== */
+@media (max-width: 768px) {
+    .hero-section h1, .about-hero h1, .products-hero h1,
+    .gallery-hero h1, .blog-hero h1, .contact-hero h1 {
+        font-size: 2.5rem;
+    }
+
+    section {
+        padding: 60px 0;
+    }
+
+    .navbar-brand {
+        font-size: 1rem;
+    }
+
+    .timeline::after {
+        left: 31px;
+    }
+
+    .timeline-item {
+        width: 100%;
+        padding-left: 70px;
+        padding-right: 25px;
+    }
+
+        .timeline-item::after {
+            left: 18px;
+        }
+
+    .left::after, .right::after {
+        left: 18px;
+    }
+
+    .right {
+        left: 0%;
+    }
+}
+
+@media (max-width: 576px) {
+    .hero-section h1, .about-hero h1, .products-hero h1,
+    .gallery-hero h1, .blog-hero h1, .contact-hero h1 {
+        font-size: 2rem;
+    }
+
+    .btn {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+    }
+
+    section {
+        padding: 40px 0;
+    }
+
+    .contact-icon {
+        font-size: 1.5rem;
+    }
+
+    #map {
+        height: 300px;
+    }
+}
