@@ -1,0 +1,14 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User files
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+
+# VS cache
+.vs/
