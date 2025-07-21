@@ -125,7 +125,7 @@ Email: amit7398.09@gmail.com
 
 LinkedIn: linkedin.com/in/amitks7398
 
-<p align="center">Made with ❤️ by Amit • Open for contributions!</p> ```
+<p align="center">Made with ❤️ by Amit • Open for contributions!</p>  
 
 ### ✅ Want More?
 Let me know if you'd like to add:
