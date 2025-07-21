@@ -57,6 +57,87 @@ Ecommerce_Templates_1
 
 ## 🗂 Project Structure
 
+##⚙️ Getting Started
+##✅ Prerequisites
+Visual Studio 2022
+
+.NET Framework 4.8
+
+SQL Server 2019+
+
+## 🚀 Installation Steps
+bash
+Copy
+Edit
+git clone https://github.com/asasmit7755/Ecommerce_Templates_1.git
+Open .sln file in Visual Studio
+
+Configure your database connection in Web.config
+
+Run SQL scripts to create tables (in /Scripts/)
+
+Build and run the app!
+
+## 📸 Screenshots
+Page	Preview
+Homepage	
+Product	
+Checkout	
+
+💡 Replace with your actual screenshots
+
+🤝 Contribution Guidelines
+## ✅ Reporting Issues
+Check open issues first
+
+Use the bug template
+
+Include logs/screenshots if possible
+
+## 💻 Code Style
+4-space indentation
+
+PascalCase for methods
+
+camelCase for variables
+
+XML docs for public methods
+
+## 🔀 Pull Request Process
+bash
+Copy
+Edit
+# Fork the repository
+git checkout -b feature/your-feature
+git commit -m "Add feature"
+git push origin feature/your-feature
+Open a PR & wait for review 👨‍💻
+
+# 📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+# 📬 Contact
+Project Lead: Amit Kumar Singh
+
+GitHub: @asasmit7755
+
+Email: amit7398.09@gmail.com
+
+LinkedIn: linkedin.com/in/amitks7398
+
+<p align="center">Made with ❤️ by Amit • Open for contributions!</p> ```
+
+# ✅ Want More?
+Let me know if you'd like to add:
+
+# ✅ Azure Deployment Guide
+
+# ✅ Sample API Docs
+
+# ✅ Feature Roadmap
+
+# ✅ Real payment gateway integration
+
 ```plaintext
 Ecommerce_Templates_1/
 ├── Admin/              # Admin dashboard pages (CRUD)
@@ -76,85 +157,4 @@ Ecommerce_Templates_1/
 │   └── Site.Master
 ├── Web.config
 └── Default.aspx
-
-⚙️ Getting Started
-##✅ Prerequisites
-Visual Studio 2022
-
-.NET Framework 4.8
-
-SQL Server 2019+
-
-##🚀 Installation Steps
-bash
-Copy
-Edit
-git clone https://github.com/asasmit7755/Ecommerce_Templates_1.git
-Open .sln file in Visual Studio
-
-Configure your database connection in Web.config
-
-Run SQL scripts to create tables (in /Scripts/)
-
-Build and run the app!
-
-##📸 Screenshots
-Page	Preview
-Homepage	
-Product	
-Checkout	
-
-💡 Replace with your actual screenshots
-
-🤝 Contribution Guidelines
-##✅ Reporting Issues
-Check open issues first
-
-Use the bug template
-
-Include logs/screenshots if possible
-
-##💻 Code Style
-4-space indentation
-
-PascalCase for methods
-
-camelCase for variables
-
-XML docs for public methods
-
-##🔀 Pull Request Process
-bash
-Copy
-Edit
-# Fork the repository
-git checkout -b feature/your-feature
-git commit -m "Add feature"
-git push origin feature/your-feature
-Open a PR & wait for review 👨‍💻
-
-##📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-##📬 Contact
-Project Lead: Amit Kumar Singh
-
-GitHub: @asasmit7755
-
-Email: amit7398.09@gmail.com
-
-LinkedIn: linkedin.com/in/amitks7398
-
-<p align="center">Made with ❤️ by Amit • Open for contributions!</p> ```
-
-##✅ Want More?
-Let me know if you'd like to add:
-
-##✅ Azure Deployment Guide
-
-##✅ Sample API Docs
-
-##✅ Feature Roadmap
-
-##✅ Real payment gateway integration
 
