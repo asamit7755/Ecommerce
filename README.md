@@ -78,14 +78,14 @@ Ecommerce_Templates_1/
 └── Default.aspx
 
 ⚙️ Getting Started
-✅ Prerequisites
+##✅ Prerequisites
 Visual Studio 2022
 
 .NET Framework 4.8
 
 SQL Server 2019+
 
-🚀 Installation Steps
+##🚀 Installation Steps
 bash
 Copy
 Edit
@@ -98,7 +98,7 @@ Run SQL scripts to create tables (in /Scripts/)
 
 Build and run the app!
 
-📸 Screenshots
+##📸 Screenshots
 Page	Preview
 Homepage	
 Product	
@@ -107,14 +107,14 @@ Checkout
 💡 Replace with your actual screenshots
 
 🤝 Contribution Guidelines
-✅ Reporting Issues
+##✅ Reporting Issues
 Check open issues first
 
 Use the bug template
 
 Include logs/screenshots if possible
 
-💻 Code Style
+##💻 Code Style
 4-space indentation
 
 PascalCase for methods
@@ -123,7 +123,7 @@ camelCase for variables
 
 XML docs for public methods
 
-🔀 Pull Request Process
+##🔀 Pull Request Process
 bash
 Copy
 Edit
@@ -133,10 +133,10 @@ git commit -m "Add feature"
 git push origin feature/your-feature
 Open a PR & wait for review 👨‍💻
 
-📜 License
+##📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-📬 Contact
+##📬 Contact
 Project Lead: Amit Kumar Singh
 
 GitHub: @asasmit7755
@@ -146,14 +146,15 @@ Email: amit7398.09@gmail.com
 LinkedIn: linkedin.com/in/amitks7398
 
 <p align="center">Made with ❤️ by Amit • Open for contributions!</p> ```
-✅ Want More?
+
+##✅ Want More?
 Let me know if you'd like to add:
 
-✅ Azure Deployment Guide
+##✅ Azure Deployment Guide
 
-✅ Sample API Docs
+##✅ Sample API Docs
 
-✅ Feature Roadmap
+##✅ Feature Roadmap
 
-✅ Real payment gateway integration
+##✅ Real payment gateway integration
 
